@@ -1,6 +1,6 @@
-<h1>Password Generator App</h1>
+<h1>Password Generator</h1>
 
-<p>Password Generator App written in HTML, CSS, and JavaScript .</p>
+<p>Password Generator written in HTML, CSS, and JavaScript .</p>
 
 ### Use of the Project:
 
@@ -18,11 +18,6 @@
 ---
 
 - Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
 - Go to the directory
 - Run the index.html file
 - Start Calculating!!
